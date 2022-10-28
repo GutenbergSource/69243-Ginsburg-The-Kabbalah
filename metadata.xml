@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>The Kabbalah: its doctrines, development, and literature</dc:title>
+      <dc:creator>Christian David Ginsburg (1831–1914)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2022-10-26</dc:publisher>
+      <dc:date>2022-10-26</dc:date>
+      <dc:rights>This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.org.
+
+ This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
+
+ </dc:rights>
+      <dc:identifier>pg:69243</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>

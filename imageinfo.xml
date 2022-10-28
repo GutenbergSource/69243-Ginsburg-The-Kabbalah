@@ -1,0 +1,16 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/lbrace2.png" filesize="262" filedate="2022-10-26 19:22:12" width="23px" height="80px"/>
+<image path="images/lbrace3.png" filesize="268" filedate="2022-10-26 19:22:12" width="23px" height="120px"/>
+<image path="images/lbrace8.png" filesize="498" filedate="2022-10-26 19:22:12" width="50px" height="691px"/>
+<image path="images/new-cover.jpg" filesize="175850" filedate="2022-10-26 19:22:12" width="960px" height="1440px"/>
+<image path="images/p096.png" filesize="42809" filedate="2022-10-26 19:22:12" width="520px" height="1162px"/>
+<image path="images/p099.png" filesize="29770" filedate="2022-10-26 19:22:12" width="863px" height="1440px"/>
+<image path="images/p100.png" filesize="34851" filedate="2022-10-26 19:22:12" width="616px" height="1440px"/>
+<image path="images/p150.png" filesize="12309" filedate="2022-10-26 19:22:12" width="466px" height="1440px"/>
+<image path="images/p180.png" filesize="8294" filedate="2022-10-26 19:22:12" width="390px" height="740px"/>
+<image path="images/qr69243.png" filesize="331" filedate="2022-10-27 15:32:44" width="296px" height="296px"/>
+<image path="images/rbrace2.png" filesize="260" filedate="2022-10-26 19:22:12" width="23px" height="80px"/>
+<image path="images/rbrace3.png" filesize="265" filedate="2022-10-26 19:22:12" width="23px" height="120px"/>
+<image path="images/rbrace8.png" filesize="491" filedate="2022-10-26 19:22:12" width="50px" height="691px"/>
+<image path="images/titlepage.png" filesize="16187" filedate="2022-10-26 19:22:12" width="839px" height="1440px"/>
+</images>
